@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Karla Aguirre.
-- ⭐ I’m interested in reaching goals beyond my imagination and helping others do the same.
-- 🌱 I’m currently a student at NCA&T.
-- 📚 I'm curretly learning how to integrate everything I have learned so far.
-- 💞️ I’m looking to collaborate on amazing projects.
-- 📫 You can reach me via email at kdaguirre@aggies.ncat.edu
+ Hi, I’m Karla Aguirre!
+NC A&T Graduate; Information Technology
+
+📫 You can reach me via email at karlita_412@outlook.com
 
 <!---
 kdaguirre/kdaguirre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
