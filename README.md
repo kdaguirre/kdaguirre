@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Music Player</b>
-   - [Practicing the usage of JavaFX]()
+   - [Practicing the usage of JavaFX](www.github.com/kdaguirre/MusicPlayer)
 
 <h2>📄 Certifications</h2>
 
