@@ -12,6 +12,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Music Player with JavaFX Explained](https://www.youtube.com/watch?v=v91P203vBss&t=266s)
+- [Music Player with JavaFX Demo](https://www.youtube.com/watch?v=4bUDoo_hfjU)
 
 <h2> 🤳 Connect with me:</h2>
 
