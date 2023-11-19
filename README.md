@@ -4,6 +4,8 @@
 
 - <b>Music Player</b>
    - [Practicing the usage of JavaFX and SceneBuilder](https://github.com/kdaguirre/MusicPlayer)
+- <b>Hungry Snake</b>
+   - [Recreating the classic Snake Game with Python]
 
 <h2>📄 Certifications</h2>
 
